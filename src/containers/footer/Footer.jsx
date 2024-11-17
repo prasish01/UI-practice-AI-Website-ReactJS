@@ -1,5 +1,5 @@
 import "./Footer.css";
-import gpt3logo from "../../assets/logo.svg";
+import gpt3logo from "../../../public/assets/logo.svg";
 const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">

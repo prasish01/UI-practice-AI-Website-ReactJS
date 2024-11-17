@@ -1,5 +1,5 @@
 import "./Possiblity.css";
-import possiblityImage from "../../assets/possibilty.png";
+import possiblityImage from "../../../public/assets/possibilty.png";
 const Possiblity = () => {
   return (
     <div className="gpt3__possibility section__padding" id="possiblity">
